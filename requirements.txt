@@ -1,0 +1,4 @@
+notebook
+langchain
+langchain-openai
+python-dotenv
