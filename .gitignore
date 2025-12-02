@@ -208,3 +208,6 @@ __marimo__/
 
 # Env
 *env
+
+# DB
+chroma_db
